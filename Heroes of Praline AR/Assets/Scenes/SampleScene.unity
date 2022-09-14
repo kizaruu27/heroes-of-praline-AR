@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8753088591248616168, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -174,9 +178,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6084168898463598738, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f77f54a6cb855ae45b31846c965108f2, type: 2}
+    - target: {fileID: -6084168898463598738, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 725dfa2710397324e91bbe3bade42c4b, type: 2}
+    - target: {fileID: -4720352690276763562, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -508409731570825463, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.298
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
       propertyPath: m_Name
       value: Cat_Idle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2214974127712611625, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544862236537587589, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962225678515299607, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3788720276537715990, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891844057481297190, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7004127437985462299, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da46799962885cb40ad994009c3fdbc9, type: 3}
@@ -303,9 +347,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3787186223930420034, guid: 6e1ad1f76bb921b439e704e65e6fa379, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6e1ad1f76bb921b439e704e65e6fa379, type: 3}
       propertyPath: m_Name
       value: Animation_Dog_Idle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2747545715280116689, guid: 6e1ad1f76bb921b439e704e65e6fa379, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549008746369058059, guid: 6e1ad1f76bb921b439e704e65e6fa379, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7480115925644409659, guid: 6e1ad1f76bb921b439e704e65e6fa379, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6e1ad1f76bb921b439e704e65e6fa379, type: 3}
@@ -384,9 +444,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8526463114012326104, guid: 592baa324fa816a45934ef64ae61470f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3730109865231187707, guid: 592baa324fa816a45934ef64ae61470f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 592baa324fa816a45934ef64ae61470f, type: 3}
       propertyPath: m_Name
       value: Rabbit_Idle
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530205191938258947, guid: 592baa324fa816a45934ef64ae61470f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 592baa324fa816a45934ef64ae61470f, type: 3}

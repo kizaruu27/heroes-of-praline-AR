@@ -6,7 +6,52 @@ ModelImporter:
   - first:
       74: -3100369314251171874
     second: Idle
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_CHR_cat_CHR_cat_body
+    second: {fileID: 2100000, guid: f77f54a6cb855ae45b31846c965108f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_CHR_cat_CHR_cat_head
+    second: {fileID: 2100000, guid: 725dfa2710397324e91bbe3bade42c4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_CHR_cat_CHR_cat_mouthExpression
+    second: {fileID: 2100000, guid: 26adecd51513f054db26eff9d8c35ee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_CHR_cat_CHR_eye_mouthExpression
+    second: {fileID: 2100000, guid: d7e3b3aacfb7a78409ef23f8a3de0af5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_CHR_cat_battle_CHR_Cat_Battle
+    second: {fileID: 2100000, guid: 187f371ebb8d43b4c92ca249d0d2ebc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_CHR_cat_casual1_CHR_cat_casual_cloth
+    second: {fileID: 2100000, guid: 35e0386a94077a349a18ad06967aa782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_CHR_cat_casual1_CHR_cat_casual_metal
+    second: {fileID: 2100000, guid: fe98ea62c46dbaf4d8c09a1b29d14226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_CHR_cat_casual1_CHR_cat_casual_outer
+    second: {fileID: 2100000, guid: 5e236d72a660f1b4e9fdbf7e02fab517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_Cat_rig_all_cat lyre
+    second: {fileID: 2100000, guid: 5ffeb0d3a036d8d4b8070643e4567d34, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

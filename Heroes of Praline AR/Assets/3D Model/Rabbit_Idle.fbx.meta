@@ -6,7 +6,42 @@ ModelImporter:
   - first:
       74: -3100369314251171874
     second: Idle
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_rabbit_Rig_all1_BunnyKnife
+    second: {fileID: 2100000, guid: c0e836ea2c9f6ba44a8087984c4fee71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_rabbit_Rig_all1_CHR_Rabbit_Battle_CHR_Rabbit_Battle
+    second: {fileID: 2100000, guid: f026c06a9d020914ba44e7108d61e1e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_rabbit_Rig_all1_CHR_Rabbit_Casual_CHR_Rabbit_casual
+    second: {fileID: 2100000, guid: fcca818110d0b064194bc5a7f3d14707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_rabbit_Rig_all1_CHR_rabbit_body
+    second: {fileID: 2100000, guid: 4fcdfc6cd3c14634484dd0f3d2dad362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_rabbit_Rig_all1_CHR_rabbit_eyes
+    second: {fileID: 2100000, guid: ec471eb39eb040741bfbc157818ec3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_rabbit_Rig_all1_CHR_rabbit_head
+    second: {fileID: 2100000, guid: 63fb820f49089f2459ce212f2ff15769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_rabbit_Rig_all1_CHR_rabbit_mouth
+    second: {fileID: 2100000, guid: 29a03b43821222447bdddaf1b5909294, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
