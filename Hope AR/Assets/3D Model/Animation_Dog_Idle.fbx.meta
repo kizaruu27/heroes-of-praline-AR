@@ -6,7 +6,42 @@ ModelImporter:
   - first:
       74: -3100369314251171874
     second: Idle
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_dog_Rig_all_CHR_Dog_Battle_CHR_Dog_Battle
+    second: {fileID: 2100000, guid: 42bdc6f1ea84c4146b7be5bb834fdcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_dog_Rig_all_CHR_Dog_Casual_CHR_Dog_Casual
+    second: {fileID: 2100000, guid: 929bc051987f7c1418558016cc50accc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_dog_Rig_all_CHR_dog_body
+    second: {fileID: 2100000, guid: 384c014f53d529a4384041495d0a32da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_dog_Rig_all_CHR_dog_head
+    second: {fileID: 2100000, guid: 166b2c76c7cf3b14a880014636f1f6c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_dog_Rig_all_CHR_eyeExpression
+    second: {fileID: 2100000, guid: 5dd6954256a7648488e81de6f12909ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_dog_Rig_all_CHR_mouthExpression
+    second: {fileID: 2100000, guid: 465b2d11901df7a45a65161acc319fe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHR_dog_Rig_all_PRP_weaponDog_sword
+    second: {fileID: 2100000, guid: 71cac12bde807b743b7561bbf1a2b087, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
