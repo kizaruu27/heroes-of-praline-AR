@@ -6,7 +6,6 @@ All Rights Reserved.
 Confidential and Proprietary - Protected under copyright and other laws.
 ==============================================================================*/
 
-using UnityEditor.Animations;
 using UnityEngine;
 using Vuforia;
 
