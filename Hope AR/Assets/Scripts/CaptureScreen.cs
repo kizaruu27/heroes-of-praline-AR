@@ -4,10 +4,19 @@ using UnityEngine;
 
 public class CaptureScreen : MonoBehaviour
 {
+    public GameObject CapturePanel;
+    
     public void OnClickScreenshot()
+    {
+        Invoke("Screenshot", 0.25f);
+    }
+
+    void Screenshot()
     {
         StartCoroutine(TakeScreenshot());
     }
+    
+    
     
     IEnumerator TakeScreenshot()
     {
@@ -22,5 +31,9 @@ public class CaptureScreen : MonoBehaviour
         byte[] imageBytes = screenImage.EncodeToPNG();
 
         NativeGallery.SaveImageToGallery(imageBytes, "Heroes of Praline", "Screenshots.png", null);
+
+        yield return new WaitForSeconds(0.5f);
+        
+        CapturePanel.SetActive(true);
     }
 }
